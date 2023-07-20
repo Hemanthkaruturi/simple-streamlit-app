@@ -1,4 +1,4 @@
-# This code is written by hemanth
+# This code is written by Jyostna
 
 # Import modules
 import streamlit as st
